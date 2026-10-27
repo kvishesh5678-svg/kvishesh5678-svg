@@ -1,25 +1,37 @@
-# Hi, I'm Vishesh 👋
+# Hey, I'm Vishesh Prajapati 👋
 
-🎓 BCA Student  
-💻 Aspiring Software Engineer  
-🌱 Currently learning C Programming and Software Development.
+### Aspiring Software Engineer | BCA Student
 
-## About Me
-I'm beginning my software development journey by learning programming fundamentals and building practical projects.
+I'm at the beginning of my software development journey, learning programming fundamentals and building my skills one project at a time.
 
-## Technologies I'm Learning
+## 🚀 About Me
+
+- 🎓 Currently pursuing BCA.
+- 💻 Learning programming from the basics.
+- 🌱 Currently focusing on C programming.
+- 🧠 Interested in problem-solving and software development.
+- 🎯 My goal is to become a skilled software engineer.
+
+## 🛠️ Currently Learning
+
 - C Programming
-- Git and GitHub
-- Python
+- Git & GitHub
+- Programming Fundamentals
 
-## Current Goals
-- Strengthen my programming fundamentals.
-- Build beginner-friendly coding projects.
-- Learn problem-solving and software development.
-- Share my progress through GitHub.
+## 📌 My Goals
 
-## My Philosophy
-Learn consistently. Build patiently. Improve every day.
+- Build a strong foundation in programming.
+- Create practical coding projects.
+- Learn new technologies step by step.
+- Share my learning journey through GitHub.
+
+## 💡 My Philosophy
+
+> Consistency beats motivation. Learn, build, improve, repeat.
+
+---
+
+⭐ Thanks for visiting my profile!
 
 <!--
 **kvishesh5678-svg/kvishesh5678-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
